@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+
+body{
+	background-image: Images/7e10080930a56d1a0f392e7a26389.jpg;
+	background-color: white;
+	
+}
+
+p{
+	
+	color: red;
+}
+
+h1{
+	text-align: center;
+	color: red;
+}
+
+div{
+	border: 2px dotted blue;
+	padding: 10px;
+	margin:  10px;	
+}
+
+.table1 th {
+	border: 1px dotted blue;
+	padding: 10px;
+	margin:  10px;	
+	background: pink;
+	align-content: center
+	
+	
+}
+
+.table1 td {
+	border: 1px dotted blue;
+	padding: 10px;
+	margin:  10px;	
+	background:withe;
+	text-align: center; 
+	
+}
